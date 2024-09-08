@@ -1,6 +1,6 @@
 # 💫 Hi, I am Nurlan Imanzade
-<h4><strong>Computer engineer</strong>  (Bachelor degree) at ASOIU</h4>
-<h4><strong>Data analytics</strong>  (Master degree) at UNEC</h4>
+<h3><strong>Computer engineer</strong>  (Bachelor degree) at ASOIU</h3>
+<h3><strong>Data analytics</strong>  (Master degree) at UNEC</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nurlan-imanzad%C9%99-039747253/) 
 
